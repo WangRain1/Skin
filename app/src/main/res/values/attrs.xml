@@ -1,0 +1,5 @@
+<resources>
+
+    <attr name="enable" format="boolean">false</attr>
+
+</resources>
